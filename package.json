@@ -1,0 +1,10 @@
+{
+  "name": "pacman",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "express": "~4.13.1",
+    "mongodb": "~2.0.14"
+  }
+}

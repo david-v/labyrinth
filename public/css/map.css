@@ -1,0 +1,6 @@
+#maze-container td {width: 20px; height: 20px; border: solid 1px black; text-align: center; vertical-align: middle}
+#maze-container td.N {border-top: none}
+#maze-container td.E {border-right: none}
+#maze-container td.S {border-bottom: none}
+#maze-container td.W {border-left: none}
+#maze-container td.player {color: darkblue}
